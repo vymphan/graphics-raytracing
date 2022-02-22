@@ -1,0 +1,10 @@
+Vy Phan
+G00958063
+Ray Tracing Assignment
+
+
+Real MVP: Thomas Rigger :)
+
+I ran into a lot of troubles with implementing the formula into codes. Most of my problems involved not normalizing the direction before calculating the diffuse lighting, specular lighting and the shadows. Especially calculating the reflected direction of a vector, I misunderstood the formula since it's using r and v which is the same as R and V from the specular lighting. My bugs were all silly mistakes here and there.
+
+No extra features
